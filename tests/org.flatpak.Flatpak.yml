@@ -19,4 +19,5 @@ modules:
         x-checker-data:
           type: anitya
           project-id: 6377
+          stable-only: true
           url-template: https://github.com/flatpak/flatpak/releases/download/$version/flatpak-$version.tar.xz
